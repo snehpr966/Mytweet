@@ -9,11 +9,11 @@
 The ultimate service for managing multi-channel notifications with a single API.
 </div>
 
-<h3>Your Topic</h3>
-<p>Description</p>
+<h3>A push notification system that integrates with popular social media platforms and sends personalized alerts for new posts or interactions.</h3>
+<p>This is a T3 Stack project bootstrapped with create-t3-app</p>
 
 <h3>Technologies being used</h3>
-<p>NextJS / Python / Laravel / NestJS, anything you can to help us bring the right people to test the project</p>
+<p>NextJS / NextAuthJS / Prisma / Tailwind CSS/ tRPC</p>
 
 <h3>App Link</h3>
 <p>If there is</p>
