@@ -16,17 +16,18 @@ The ultimate service for managing multi-channel notifications with a single API.
 <p>NextJS / NextAuthJS / Prisma / Tailwind CSS/ tRPC</p>
 
 <h3>App Link</h3>
-<p>If there is</p>
+<p></p>
 
 <h3>Screenshoot</h3>
 <img width="1128" alt="image" src="https://user-images.githubusercontent.com/100117126/235352769-56544ab6-8b0d-47f9-8788-e363c692a594.png">
 
 <h3>Description</h3>
-<p>Explain what you have build in the most detailed way</p>
+<p>I have built a social media app similar to twitter while integrating novu functionalities fo the notification purposes.</p>
 
 
 <h3>Who are you?</h3>
-<p>Give us your best description who are you, and why you have decided to build this project</p>
+<p>I am a 2nd year computer science student and a web development entusiast who believes in learning by sharing</p>
 
 <h3>Additional Resources/Info</h3>
-<p>If you have</p>
+<p>How do I deploy this?
+Follow  deployment guides for Vercel, Netlify and Docker for more information.</p>
