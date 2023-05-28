@@ -15,14 +15,12 @@ The ultimate service for managing multi-channel notifications with a single API.
 <h3>Technologies being used</h3>
 <p>NextJS / NextAuthJS / Prisma / Tailwind CSS/ tRPC</p>
 
-<h3>App Link</h3>
-<p></p>
 
 <h3>Screenshoot</h3>
 <img width="1128" alt="image" src="https://user-images.githubusercontent.com/100117126/235352769-56544ab6-8b0d-47f9-8788-e363c692a594.png">
 
 <h3>Description</h3>
-<p>I have built a social media app similar to twitter while integrating novu functionalities fo the notification purposes.</p>
+<p>I have built a social media app similar to twitter while integrating novu functionalities for the notification purposes.</p>
 
 
 <h3>Who are you?</h3>
